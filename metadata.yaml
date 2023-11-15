@@ -1,0 +1,45 @@
+_repo: The-shades-of-Toffee_71973
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Jones, Robert Gibson
+    birthdate: 1889
+    deathdate: 1969
+    gutenberg_agent_id: '56476'
+    url: http://www.gutenberg.org/2009/agents/56476
+creator:
+  author:
+    agent_name: Farrell, Henry
+    aliases:
+    - Myers, Charles Farrell
+    - Myers, Charles F.
+    - Myers, Charles Henry
+    birthdate: 1920
+    deathdate: 2006
+    gutenberg_agent_id: '53188'
+    url: http://www.gutenberg.org/2009/agents/53188
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Farrell
+description: ''
+gutenberg_issued: '2023-10-27'
+identifiers:
+  gutenberg: '71973'
+language: en
+pgterms:marc905: 20230822061401myers
+pgterms:marc906: '1950'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aChicago, IL :$bZiff-Davis Publishing Company, $c1950.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Toffee
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Fantasy fiction'
+- !lcsh 'Spouses -- Fiction'
+- !lcsh 'Subconsciousness -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The shades of Toffee
+url: http://www.gutenberg.org/ebooks/71973
