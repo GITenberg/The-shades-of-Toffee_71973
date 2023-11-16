@@ -7,6 +7,9 @@ contributor:
     deathdate: 1969
     gutenberg_agent_id: '56476'
     url: http://www.gutenberg.org/2009/agents/56476
+covers:
+- cover_type: archival
+  image_path: 71973-h/images/cover.jpg
 creator:
   author:
     agent_name: Farrell, Henry
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53188
     wikipedia: https://en.wikipedia.org/wiki/Henry_Farrell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71973#The-shades-of-Toffee
 gutenberg_issued: '2023-10-27'
 identifiers:
   gutenberg: '71973'
